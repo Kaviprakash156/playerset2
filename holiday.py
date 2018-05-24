@@ -1,6 +1,6 @@
-holiday=['mon','tue','wed','thur','fri']
+holiday=['saturday','sunday']
 day=input()
 if day in holiday:
-  print ("no")
+  print ("yes")
 else:  
-  print("yes")
+  print("no")
